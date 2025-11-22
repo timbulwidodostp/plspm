@@ -1,6 +1,8 @@
 # plspm
 Partial Least Squares Path Modeling ((PLS-PM) Use plspm With (In) R Software
 
+https://www.youtube.com/watch?v=fKDX0BgB-80
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
